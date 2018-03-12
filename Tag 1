@@ -6,5 +6,35 @@ Transmembrane molecule that
 
 Task 1.1
 How many structures are available for EGFR?
+
 around 30 when filtering for human only, from X-Ray, resolution < 2.0 Angström, and deposition date >2010
+
+Task 1.2
+
+Header names the molecule function and exact name
+
+ATOM consists of information on the type of atom, position number, in which Amino acid, spatial coordinates,
+temperature factor
+
+
+DFG -in and out
+http://kinase.com/wiki/index.php/Activation_loop
+
+The impact of the kinase conformational state on inhibitor potency and selectivity is an 
+important but poorly understood problem in kinase inhibitor drug discovery. The breakthrough 
+drug imatinib showed us several years ago that the plasticity of kinase structure can enable the 
+development of selective kinase inhibitors despite the high sequence conservation within this large protein family. 
+Imatinib is classified as a “type II” kinase inhibitor because it contacts both the ATP cofactor binding site and 
+an adjacent “allosteric” site available only when the kinase assumes a catalytically inactive conformation where 
+the “Asp-Phe-Gly (DFG)” motif at the N terminus of the activation loop is flipped “out” relative to its conformation 
+in the active state (“in”) (Figure 1B) (Nagar et al., 2002). In contrast, type I inhibitors including VX-680 (and dasatinib) 
+bind at the ATP site but do not penetrate the allosteric pocket and therefore do not depend on specific kinase conformations 
+for binding (Figure 1A). Type II inhibitors are generally more selective than type I inhibitors across the enormous human 
+kinome (518 members) (Davis et al., 2011), but the reasons for this selectivity advantage are not well understood. Are the 
+additional contacts made by type II inhibitors in the less well-conserved allosteric pocket critical for selectivity? Is it
+that many kinases do not adopt, or only poorly adopt, the “DFG-out” conformation required for type II inhibitor binding? Or 
+is it some of both? The results presented by Hari et al. (2013) in this issue of Chemistry & Biology address this question 
+and suggest that inherent differences in the ability of kinases to adopt the DFG-out conformation can indeed contribute to the
+selectivity of type II inhibitors.
+
 
